@@ -1,2 +1,0 @@
-# nidhimuni.github.io
-me

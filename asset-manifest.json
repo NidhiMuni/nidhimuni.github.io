@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nidhimuni.github.io/static/css/main.cf19f2ef.css",
+    "main.js": "/nidhimuni.github.io/static/js/main.8c31e29c.js",
+    "static/js/453.fed8fb93.chunk.js": "/nidhimuni.github.io/static/js/453.fed8fb93.chunk.js",
+    "static/media/eys.jpg": "/nidhimuni.github.io/static/media/eys.9a0909b63b27d82f8eaa.jpg",
+    "index.html": "/nidhimuni.github.io/index.html",
+    "main.cf19f2ef.css.map": "/nidhimuni.github.io/static/css/main.cf19f2ef.css.map",
+    "main.8c31e29c.js.map": "/nidhimuni.github.io/static/js/main.8c31e29c.js.map",
+    "453.fed8fb93.chunk.js.map": "/nidhimuni.github.io/static/js/453.fed8fb93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf19f2ef.css",
+    "static/js/main.8c31e29c.js"
+  ]
+}
